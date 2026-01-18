@@ -1,0 +1,83 @@
+# Chat Filter Configuration
+# Available colors: RED, GREEN, BLUE, YELLOW, WHITE, BLACK, ORANGE, GRAY
+message: Hey, you cannot say that!
+color: RED
+censorwords: false
+
+# If censorwords is true, banned words will be replaced with *****
+# If false, the message will be blocked entirely
+
+# Add banned words below (one per line)
+# Lines starting with # are comments and will be ignored
+
+# Common banned words
+banned_words:
+  - fuck
+  - shit
+  - ass
+  - bitch
+  - damn
+  - hell
+  - crap
+  - dick
+  - piss
+  - bastard
+  - cunt
+  - whore
+  - slut
+  - fag
+  - nigger
+  - nigga
+  - motherfucker
+  - son_of_a_bitch
+  - bullshit
+  - asshole
+  - cock
+  - pussy
+  - tits
+  - twat
+  - wanker
+  - bugger
+  - bloody
+  - arse
+  - bollocks
+  - shag
+  - snog
+  - git
+  - pillock
+  - prick
+  - knob
+  - minger
+  - chav
+  - pikey
+  - gypo
+  - spastic
+  - mong
+  - retard
+  - idiot
+  - moron
+  - imbecile
+  - cretin
+  - dumbass
+  - jackass
+  - motherfucking
+  - fucking
+  - shitting
+  - pissed
+  - pissing
+  - crappy
+  - shitty
+  - cock_sucker
+  - dick_head
+  - piss_off
+  - fuck_off
+  - shit_head
+  - ass_hole
+  - bitch_ass
+  - cunt_face
+  - whore_bag
+  - slut_bucket
+  - fag_got
+  - nig_ger
+  - nig_ga
+  
